@@ -1,0 +1,7 @@
+.background-container{
+  background: url('./components/assets/background-stars.svg'), #070724;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center; 
+  background-repeat: no-repeat
+}

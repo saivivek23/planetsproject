@@ -1,0 +1,52 @@
+
+html{
+  height:100%;
+}
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.heading1 {
+  font-size: 80px;
+  line-height: 103px;
+  font-family: 'Antonio', sans-serif;
+}
+
+.heading2 {
+  font-size: 40px;
+  line-height: 50px;
+  font-family: 'Antonio', sans-serif;
+  line-height: 52px;
+  letter-spacing: -1.5;
+  font-weight: medium;
+}
+
+
+.heading3 {
+  font-family: 'League Spartan', sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 25px;
+  letter-spacing: 2.6px;
+}
+
+.heading4 {
+  font-family: 'League Spartan', sans-serif;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 25px;
+  letter-spacing: 1px
+}
+
+body {
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 25px;
+}
